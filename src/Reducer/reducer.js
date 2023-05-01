@@ -1,5 +1,5 @@
 const initialState = {
-    tasks: ["salom"],
+    tasks: [],
 }
 
 
